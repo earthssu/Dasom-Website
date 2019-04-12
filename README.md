@@ -7,8 +7,8 @@ http://dasom.io
 ```
 
 ## 개발 Wiki 바로가기
-* [Wiki Home](https://github.com/KHU-Dasom/Dasom-Website-wiki/Home)
-* [Dasom API Reference](https://github.com/KHU-Dasom/Dasom-Website-wiki/Rest-API)
+* [Wiki Home](https://github.com/KHU-Dasom/Dasom-Website/wiki)
+* [Dasom API Reference](https://github.com/KHU-Dasom/Dasom-Website/wiki/REST-API)
 
 ## 폴더 구조
 ```sh
