@@ -10,6 +10,12 @@ http://dasom.io
 * [Wiki Home](https://github.com/KHU-Dasom/Dasom-Website/wiki)
 * [Dasom API Reference](https://github.com/KHU-Dasom/Dasom-Website/wiki/REST-API)
 
+## 커밋 양식
+* 기능 추가 : `Feat: 추가한 내용`
+* 버그 수정 : `Fix: 수정한 내용`
+* 문서 수정 : `Docs: 수정한 내용`
+* 테스트 : `Test: 테스트 내용`
+
 ## 페이지 구조
 ```sh
 ├─메인
